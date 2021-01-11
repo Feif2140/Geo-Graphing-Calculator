@@ -1,1 +1,2 @@
 "# Geo-Graphing-Calculator" 
+A graphical Calculator that allows the user to draw circles and line segments using mouse clicker input. Is able to return relevant mathematical information such as various points of intersections, mathematical equations, and much more. Also has the option to save what you drew on the application in the form of a text file which can then be loaded back into the app for future use. 
